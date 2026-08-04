@@ -6,7 +6,7 @@
   </a>
 </div>
 
-**Software Engineer** enfocado en Backend. Transformo problemas complejos en soluciones que aportan valor real y simplifican la vida de las personas con **.NET Core** y **Python**. Me motiva diseñar sistemas útiles, escalables y fáciles de mantener. Cuando no estoy programando, me encuentras leyendo comics o tocando la guitarra 🎸. Me apasionan los desafíos que me motiven a pensar más allá.
+**Software Engineer** enfocado en Backend. Transformo problemas complejos en soluciones que simplifican la vida de las personas. Me motiva desarrollar sistemas útiles, escalables y fáciles de mantener. Cuando no estoy programando, me encuentras leyendo comics o tocando la guitarra 🎸. Me apasionan los desafíos que me motiven a pensar más allá.
 
 <h3 align="center">Lenguajes y Frameworks</h3>
 <p align="center">
