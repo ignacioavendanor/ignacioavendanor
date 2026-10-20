@@ -1,8 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=006CCD&height=120&section=header" alt="Header"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hola,%20Soy%20Ignacio%20Avendaño%20👋&fontSize=32&fontColor=006CCD&fontWeight=800" alt="Hola, Soy Ignacio Avendaño" />
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Software%20Engineer&fontSize=32&fontColor=33ccff&fontWeight=800" alt="Software Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hola,%20Soy%20Ignacio%20Avendaño%20👋&fontSize=32&fontColor=006CCD&fontWeight=800" alt="Hola, Soy Ignacio Avendaño" style="margin-bottom: -20px;" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Software%20Engineer&fontSize=32&fontColor=33ccff&fontWeight=800" alt="Software Engineer" style="margin-top: -20px;" />
 </div>
 
 <br>
