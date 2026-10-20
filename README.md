@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hola,%20Soy%20Ignacio%20Avendaño%20👋&fontSize=32&fontColor=006CCD&fontWeight=800" alt="Hola, Soy Ignacio Avendaño" />
-  <br>
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=Software%20Engineer&fontSize=32&fontColor=33ccff&fontWeight=800" alt="Software Engineer" />
 </div>
 
