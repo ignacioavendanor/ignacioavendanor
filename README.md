@@ -1,13 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=006CCD&height=120&section=header" alt="Header"/>
 
 <div align="center">
-  <h1 style="color: #006CCD; margin: 16px 0 4px 0;">
-    Hola, Soy Ignacio Avendaño 👋
-  </h1>
-  <h2 style="color: #33ccff; margin: 0 0 16px 0;">
-    Software Engineer
-  </h2>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hola,%20Soy%20Ignacio%20Avendaño%20👋&fontSize=32&fontColor=006CCD&fontWeight=800" alt="Hola, Soy Ignacio Avendaño" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Software%20Engineer&fontSize=32&fontColor=33ccff&fontWeight=800" alt="Software Engineer" />
 </div>
+
+<br>
 
 **Ingeniero de Software** enfocado en <span style="color: #006CCD; font-weight: 600;">arquitectura e integración de plataformas</span>. A través del diseño y el desarrollo de software, implemento soluciones tecnológicas y orquesto <span style="color: #006CCD; font-weight: 600;">infraestructura</span> para asegurar la escalabilidad y <span style="color: #006CCD; font-weight: 600;">continuidad operacional</span>.
 
